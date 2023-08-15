@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - prints natural numbers
+ * main - print_to_98
  *
  * Return: Always 0.
  */
